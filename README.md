@@ -6,13 +6,7 @@ I'm a passionate Software Engineer specializing in **Frontend Development** and 
 
 ---
 
-## 💼 Experience & Projects
-
-- **Accenture**  
-  *Application Developer & Security Engineer*  
-  - Developed the frontend for 15+ cross-platform applications with seamless performance across devices.
-  - Integrated secure access for client applications using Okta, streamlining onboarding processes and reducing support tickets.
-  - Standardized workflows and collaborated closely with cross-functional teams to ensure smooth releases and optimal user experience.
+## 💼 Projects
 
 - **Key Projects:**  
   - **Personal Portfolio & Branding Platform:**  
@@ -33,7 +27,7 @@ Java, JavaScript
 ReactJS, AngularJS, HTML, CSS, SASS, Bootstrap
 
 **Back-End:**  
-Node.js, Express.js, Java
+Node.js, Express.js
 
 **Databases:**  
 MongoDB, MySQL
