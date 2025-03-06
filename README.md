@@ -25,8 +25,7 @@ I'm a passionate Software Engineer specializing in **Frontend Development** and 
 ## 🛠️ Skills & Technologies
 
 **Languages:**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java), ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript)
 
 **Front-End:**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
