@@ -11,14 +11,8 @@ I'm a passionate Software Engineer specializing in **Frontend Development** and 
 
 ## 🚀 Experience & Projects
 
-### **Accenture**
-*Application Developer & Security Engineer*  
-- **Frontend Development:** Built 15+ cross-platform applications ensuring seamless performance across all devices.  
-- **Security Integration:** Integrated Okta for secure access, streamlining onboarding and reducing support tickets.  
-- **Collaboration & Workflow:** Standardized processes and worked with cross-functional teams to deliver smooth, user-friendly releases.
-
 ### **Highlighted Projects**
-- **Personal Portfolio & Branding Platform:**  
+- **Personal Portfolio:**  
   A dynamic Angular website paired with a Node.js backend to showcase projects and technical expertise.
   
 - **Patient Management Application:**  
@@ -39,7 +33,7 @@ I'm a passionate Software Engineer specializing in **Frontend Development** and 
 HTML • CSS • SASS • Bootstrap
 
 **Back-End:**  
-Node.js • Express.js • Java
+Node.js • Express.js
 
 **Databases:**  
 MongoDB • MySQL
@@ -66,9 +60,6 @@ VS Code • Git • Bitbucket • GitHub • Okta (SSO/MFA)
 ---
 
 ## 🎯 Fun & Interactive
-
-- **Visitor Count:**  
-  ![Visitor Count](https://profile-counter.glitch.me/AnjanaSruthiR/count.svg)
 
 - **Current Activity:**  
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnjanaSruthiR&theme=react-dark)
