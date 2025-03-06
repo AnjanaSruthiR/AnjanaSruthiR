@@ -51,20 +51,3 @@ VS Code, Git, Bitbucket, GitHub, Android Studio, Jira, ServiceNow, O365, Figma, 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaSruthiR&layout=compact)](https://github.com/AnjanaSruthiR)
 
 ---
-
-## How to Extract and Display Your Git Data
-
-To automatically extract and display your GitHub statistics:
-
-1. **Visit [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats):**  
-   Follow the setup instructions provided in the repository.
-
-2. **Customize Your Badges:**  
-   Replace `AnjanaSruthiR` in the badge URLs with your GitHub username if needed. You can also tweak the theme, layout, and other parameters to match your style.
-
-3. **Embed in Your README:**  
-   Simply copy the markdown snippets above into your README file. The badges will update automatically to display your latest stats.
-
----
-
-Thanks for stopping by! Feel free to explore my repositories, connect with me on [LinkedIn](https://www.linkedin.com/in/anjanasruthiranga/), or drop me a message.
