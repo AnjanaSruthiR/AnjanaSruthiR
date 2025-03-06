@@ -1,5 +1,5 @@
 <!-- Banner Image (replace the URL with your custom banner GIF/image if available) -->
-![Banner](https://images.pexels.com/photos/2228554/pexels-photo-2228554.jpeg)
+![Banner](https://www.pexels.com/photo/turned-on-laptop-computer-574073/)
 
 # Hi there, I'm **Anjana Sruthi Ranga** 👋
 
