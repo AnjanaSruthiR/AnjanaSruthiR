@@ -1,33 +1,70 @@
-# 👋 Hi, I'm Anjana Sruthi Ranga!  
+# Hi, I'm Anjana Sruthi Ranga 👋
 
-💻 **Software Engineer | Frontend & IAM Specialist**  
-📍 Boston, MA | 📧 ranga.anj@northeastern.edu  
+[![GitHub followers](https://img.shields.io/github/followers/AnjanaSruthiR?style=social)](https://github.com/AnjanaSruthiR)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anjana%20Sruthi%20Ranga-blue)](https://www.linkedin.com/in/anjanasruthiranga/)
 
-## 🚀 About Me  
-- 🎓 Pursuing **MS in Information Systems** at **Northeastern University**  
-- 💡 Passionate about **Frontend Development, Identity & Access Management (IAM), and Cybersecurity**  
-- 🌍 Experienced in **MERN, MEAN stacks & IAM security with Okta**  
+## About Me
 
-## 🔧 Tech Stack  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Okta](https://img.shields.io/badge/Okta-00297A?style=for-the-badge&logo=okta&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+I'm a passionate **Software Engineer** based in Boston, MA, specializing in Frontend development and enterprise Identity and Access Management (IAM). I enjoy building secure, scalable, and interactive applications using modern stacks like MERN/MEAN, and I strive to create user-centric designs that bridge the gap between technical innovation and usability.
 
-## 📌 Featured Projects  
-- 🌐 [Portfolio Website (Angular)](https://github.com/AnjanaSruthiR/Portfolio_Angular)  
-- 📱 **[Patient Management System](https://github.com/AnjanaSruthiR/)** *(ReactJS, MongoDB, Okta IAM)*  
-- 🏥 **[Hospital Management System](https://github.com/AnjanaSruthiR/)** *(Java Swing-based hospital operations system)*  
+---
 
-## 📊 GitHub Stats  
-![Anjana Sruthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnjanaSruthiR&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaSruthiR&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnjanaSruthiR&theme=tokyonight)  
+## What I Do
 
-## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjanasruthiranga/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranga.anj@northeastern.edu)  
+- **Frontend Development:** Building dynamic web applications using JavaScript, Angular, React, and more.
+- **Security Engineering:** Designing and implementing robust security frameworks with Okta-based SSO and MFA for enhanced authentication.
+- **Full-Stack Projects:** From personal portfolio platforms to comprehensive patient and hospital management systems, I deliver complete solutions that balance functionality with design.
+
+---
+
+## Skills & Technologies
+
+**Core Development:**  
+Java, JavaScript, ReactJS, AngularJS, Node.js, Express.js, HTML, CSS, SASS, Bootstrap, MongoDB, MySQL
+
+**Tools & Platforms:**  
+VS Code, Git, Bitbucket, GitHub, Android Studio, Jira, ServiceNow, O365, Figma, MS Excel
+
+---
+
+## Experience & Projects
+
+- **Accenture, India:**  
+  As an Application Developer and Security Engineer, I played a pivotal role in delivering cross-platform applications and integrating secure IAM solutions across multiple client projects.
+
+- **Personal Portfolio & Branding Platform:**  
+  Developed a dynamic portfolio using Angular and Node.js to showcase projects and technical expertise.
+
+- **Patient Management Application:**  
+  Built a responsive patient portal using ReactJS, Vite, and Tailwind CSS, with secure authentication powered by Okta.
+
+- **Hospital Management Application:**  
+  Designed and developed a comprehensive system using Java Swing to streamline hospital operations and enhance data management.
+
+---
+
+## GitHub Stats
+
+<!-- GitHub Readme Stats -->
+[![Anjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnjanaSruthiR&show_icons=true&theme=default)](https://github.com/AnjanaSruthiR)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaSruthiR&layout=compact)](https://github.com/AnjanaSruthiR)
+
+---
+
+## How to Extract and Display Your Git Data
+
+To automatically extract and display your GitHub statistics:
+
+1. **Visit [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats):**  
+   Follow the setup instructions provided in the repository.
+
+2. **Customize Your Badges:**  
+   Replace `AnjanaSruthiR` in the badge URLs with your GitHub username if needed. You can also tweak the theme, layout, and other parameters to match your style.
+
+3. **Embed in Your README:**  
+   Simply copy the markdown snippets above into your README file. The badges will update automatically to display your latest stats.
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories, connect with me on [LinkedIn](https://www.linkedin.com/in/anjanasruthiranga/), or drop me a message.
