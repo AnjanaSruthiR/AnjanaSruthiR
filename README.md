@@ -1,5 +1,5 @@
 <!-- Banner Image (replace the URL with your custom banner GIF/image if available) -->
-![Banner](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&auto=format&fit=crop&w=1500&q=80)
+![Banner](https://images.pexels.com/photos/2228554/pexels-photo-2228554.jpeg)
 
 # Hi there, I'm **Anjana Sruthi Ranga** 👋
 
@@ -45,8 +45,8 @@ I'm a passionate Software Engineer specializing in **Frontend Development** and 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnjanaSruthiR&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaSruthiR&layout=compact&theme=default" alt="Top Languages" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnjanaSruthiR&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaSruthiR&layout=compact&theme=default" alt="Top Languages" height="200px" />
 </div>
 
 ---
