@@ -1,5 +1,5 @@
 <!-- Banner Image (replace the URL with your custom banner GIF/image if available) -->
-![Banner](https://raw.githubusercontent.com/AnjanaSruthiR/AnjanaSruthiR/main/banner.gif)
+![Banner](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&auto=format&fit=crop&w=1500&q=80)
 
 # Hi there, I'm **Anjana Sruthi Ranga** 👋
 
