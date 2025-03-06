@@ -62,4 +62,4 @@ VS Code • Git • Bitbucket • GitHub • Okta (SSO/MFA)
 ## 🎯 Fun & Interactive
 
 - **Current Activity:**  
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnjanaSruthiR&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnjanaSruthiR&theme=react-dark)
