@@ -11,6 +11,7 @@
   style="margin-left: 30px; margin-right: 30px;" 
 />
 
+## 🔗 Let's Connect
 <!-- LinkedIn Badge -->
 <a href="https://www.linkedin.com/in/anjanasruthiranga/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:30px;" />
@@ -71,13 +72,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AnjanaSruthiR&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" height="200px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaSruthiR&layout=compact&theme=default" alt="Top Languages" height="200px" />
 </div>
-
----
-
-## 🔗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjanasruthiranga/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ranga.anj@northeastern.edu)
 
 ---
 
