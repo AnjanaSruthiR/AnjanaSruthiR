@@ -29,7 +29,6 @@
   Management (IAM)</strong>. I love crafting secure, scalable applications using the MERN/MEAN stacks 
   and integrating robust security measures (like Okta for SSO/MFA) into dynamic, user-centric experiences.
 </p>
-<br />
 
 ---
 
