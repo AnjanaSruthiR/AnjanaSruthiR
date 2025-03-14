@@ -1,6 +1,8 @@
-<div style="width: 100%;">
-  <!-- Left Column: Text Content -->
-  <div style="display: inline-block; vertical-align: top; width: 48%; padding-right: 2%;">
+<!-- Container for the two-column layout -->
+<div style="display: flex; align-items: flex-start; flex-wrap: wrap;">
+
+  <!-- Left Column: Text -->
+  <div style="flex: 1; min-width: 250px; margin-right: 20px;">
     <h1>Hi there, I'm <strong>Anjana Sruthi Ranga</strong> 👋</h1>
     <p>
       <strong>Boston, MA</strong> | 
@@ -15,9 +17,14 @@
   </div>
 
   <!-- Right Column: Image -->
-  <div style="display: inline-block; vertical-align: top; width: 48%;">
-    <img src="https://github.com/user-attachments/assets/9003ffa1-e01c-4b23-b303-4c5bc5e21c23" alt="Profile Image" style="width: 100%; height: auto;" />
+  <div style="max-width: 300px; flex-shrink: 0;">
+    <img 
+      src="https://github.com/user-attachments/assets/9003ffa1-e01c-4b23-b303-4c5bc5e21c23" 
+      alt="Developer illustration" 
+      style="width: 100%; height: auto;" 
+    />
   </div>
+
 </div>
 
 ---
