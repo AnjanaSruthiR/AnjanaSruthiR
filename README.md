@@ -6,12 +6,12 @@
 
 <!-- LinkedIn Badge -->
 <a href="https://www.linkedin.com/in/anjanasruthiranga/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:50px;" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:30px;" />
 </a>
 
 <!-- Email Badge -->
 <a href="mailto:ranga.anj@northeastern.edu" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" style="height:50px;" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" style="height:30px;" />
 </a>
 
 <p>
