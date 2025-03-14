@@ -1,29 +1,23 @@
-<div style="width: 100%; display: flex; flex-wrap: wrap; align-items: flex-start;">
+<p>
+  <img 
+    src="https://github.com/user-attachments/assets/9003ffa1-e01c-4b23-b303-4c5bc5e21c23" 
+    alt="Developer illustration" 
+    align="right"
+    width="300"
+    style="margin-left: 20px;" 
+  />
+  Hi there, I'm <strong>Anjana Sruthi Ranga</strong> 👋 <br />
+  <strong>Boston, MA</strong> | 
+  <img src="https://komarev.com/ghpvc/?username=AnjanaSruthiR&color=brightgreen" alt="Profile Views" />
+</p>
 
-  <!-- Left Column: Text -->
-  <div style="width: 60%; min-width: 300px; padding-right: 20px;">
-    <h1>Hi there, I'm <strong>Anjana Sruthi Ranga</strong> 👋</h1>
-    <p>
-      <strong>Boston, MA</strong> | 
-      <img src="https://komarev.com/ghpvc/?username=AnjanaSruthiR&color=brightgreen" alt="Profile Views" />
-    </p>
-    <p>
-      I'm a passionate Software Engineer specializing in <strong>Frontend Development</strong> and 
-      <strong>Enterprise Identity & Access Management (IAM)</strong>. I love crafting secure, scalable 
-      applications using the MERN/MEAN stacks and integrating robust security measures 
-      (like Okta for SSO/MFA) into dynamic, user-centric experiences.
-    </p>
-  </div>
-
-  <!-- Right Column: Image -->
-  <div style="width: 35%; min-width: 250px;">
-    <img 
-      src="https://github.com/user-attachments/assets/9003ffa1-e01c-4b23-b303-4c5bc5e21c23" 
-      alt="Developer illustration" 
-      style="width: 100%; height: auto;" 
-    />
-  </div>
-</div>
+<p>
+  I'm a passionate Software Engineer specializing in 
+  <strong>Frontend Development</strong> and 
+  <strong>Enterprise Identity & Access Management (IAM)</strong>. I love crafting secure, 
+  scalable applications using the MERN/MEAN stacks and integrating robust security measures 
+  (like Okta for SSO/MFA) into dynamic, user-centric experiences.
+</p>
 
 ---
 
