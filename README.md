@@ -11,7 +11,7 @@
   style="margin-left: 30px; margin-right: 30px;" 
 />
 
-## 🔗 Let's Connect
+🔗 Let's Connect
 <!-- LinkedIn Badge -->
 <a href="https://www.linkedin.com/in/anjanasruthiranga/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:30px;" />
