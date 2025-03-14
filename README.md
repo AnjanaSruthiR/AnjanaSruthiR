@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; flex-direction: column; align-items: center; flex-wrap: wrap;">
 
   <!-- Left Column: Text Content -->
   <div style="flex: 1; min-width: 300px; padding-right: 20px;">
