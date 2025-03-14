@@ -4,14 +4,14 @@
 </h1>
 <img align="right" alt="GIF" src="https://github.com/user-attachments/assets/9003ffa1-e01c-4b23-b303-4c5bc5e21c23" width="250" height="200" />
 
-<!-- LinkedIn Link -->
-<a href="https://www.linkedin.com/in/anjanasruthiranga/" alt="LinkedIn" target="_blank">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-linkedin.svg" height="40" />
+<!-- LinkedIn Badge -->
+<a href="https://www.linkedin.com/in/anjanasruthiranga/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="height:50px;" />
 </a>
 
-<!-- Email Link -->
-<a href="mailto:ranga.anj@northeastern.edu" alt="Email" target="_blank">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
+<!-- Email Badge -->
+<a href="mailto:ranga.anj@northeastern.edu" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" style="height:50px;" />
 </a>
 
 <p>
