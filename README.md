@@ -6,15 +6,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjanasruthiranga/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ranga.anj@northeastern.edu)
-<br />
-<br />
+
 <p>
   Hi, I'm Anjana Sruthi Ranga, a passionate Software Engineer from Boston, MA. 
   I specialize in <strong>Frontend Development</strong> and <strong>Enterprise Identity &amp; Access 
   Management (IAM)</strong>. I love crafting secure, scalable applications using the MERN/MEAN stacks 
   and integrating robust security measures (like Okta for SSO/MFA) into dynamic, user-centric experiences.
 </p>
-
+<br />
+<br />
 
 <!-- Clear float before next sections to avoid overlap -->
 <div style="clear: both;"></div>
