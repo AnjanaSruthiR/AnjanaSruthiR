@@ -26,6 +26,8 @@
   and integrating robust security measures (like Okta for SSO/MFA) into dynamic, user-centric experiences.
 </p>
 
+<img align="right" alt="GIF" src="https://github.com/Tanmay-Pillai44/Tanmay-Pillai44/blob/master/coding.gif?raw=true" width="408" height="318" />
+
 <!-- Clear float before next sections to avoid overlap -->
 <div style="clear: both;"></div>
 
