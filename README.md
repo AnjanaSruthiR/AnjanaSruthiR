@@ -22,9 +22,6 @@
   and integrating robust security measures (like Okta for SSO/MFA) into dynamic, user-centric experiences.
 </p>
 <br />
-<br />
-
-<!-- Clear float before next sections to avoid overlap -->
 <div style="clear: both;"></div>
 
 ---
