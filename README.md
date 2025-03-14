@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=AnjanaSruthiR&color=brightgreen" alt="Profile Views" />
 </p>
 
-<p>
+<p style="margin-top: 20px; margin-bottom: 20px;">
   I'm a passionate Software Engineer specializing in 
   <strong>Frontend Development</strong> and 
   <strong>Enterprise Identity &amp; Access Management (IAM)</strong>. I love crafting secure, 
