@@ -13,7 +13,8 @@
 <a href="mailto:ranga.anj@northeastern.edu" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" style="height:30px;" />
 </a>
-
+<br />
+<br />
 <p>
   Hi, I'm Anjana Sruthi Ranga, a passionate Software Engineer from Boston, MA. 
   I specialize in <strong>Frontend Development</strong> and <strong>Enterprise Identity &amp; Access 
