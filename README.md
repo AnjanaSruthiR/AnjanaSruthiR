@@ -6,8 +6,8 @@
   align="right" 
   alt="GIF" 
   src="https://github.com/user-attachments/assets/9003ffa1-e01c-4b23-b303-4c5bc5e21c23" 
-  width="250" 
-  height="250" 
+  width="150" 
+  height="200" 
   style="margin-left: 30px; margin-right: 30px;" 
 />
 
