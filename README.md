@@ -1,23 +1,10 @@
 <h1 align="center">
   Hi there, I'm 
-  <a href="https://www.linkedin.com/in/anjanasruthiranga/" target="_blank">Anjana Sruthi Ranga</a>
-  <img 
-    src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" 
-    alt="waving hand" 
-    height="32" 
-  />
+  <a href="https://www.linkedin.com/in/anjanasruthiranga/" target="_blank">Anjana Sruthi Ranga 👋</a>
 </h1>
 
-<br />
-
-<!-- Social badges or links (example icons) -->
-<a href="mailto:ranga.anj@northeastern.edu" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="40" />
-</a>
-<a href="https://www.linkedin.com/in/anjanasruthiranga/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="40" />
-</a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjanasruthiranga/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ranga.anj@northeastern.edu)
 <br />
 <br />
 
