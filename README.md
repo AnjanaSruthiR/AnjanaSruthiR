@@ -1,26 +1,24 @@
-<table>
-  <tr>
-    <!-- Left Column: Text Content -->
-    <td valign="top" style="padding-right: 20px;">
-      <h1>Hi there, I'm <strong>Anjana Sruthi Ranga</strong> 👋</h1>
-      <p>
-        <strong>Boston, MA</strong> | 
-        <img src="https://komarev.com/ghpvc/?username=AnjanaSruthiR&color=brightgreen" alt="Profile Views" />
-      </p>
-      <p>
-        I'm a passionate Software Engineer specializing in <strong>Frontend Development</strong> and 
-        <strong>Enterprise Identity & Access Management (IAM)</strong>. I love crafting secure, scalable 
-        applications using the MERN/MEAN stacks and integrating robust security measures 
-        (like Okta for SSO/MFA) into dynamic, user-centric experiences.
-      </p>
-    </td>
-    
-    <!-- Right Column: Image -->
-    <td valign="top" style="text-align: center;">
-      <img src="https://github.com/user-attachments/assets/9003ffa1-e01c-4b23-b303-4c5bc5e21c23" alt="Profile Image" width="250" />
-    </td>
-  </tr>
-</table>
+<div style="width: 100%;">
+  <!-- Left Column: Text Content -->
+  <div style="display: inline-block; vertical-align: top; width: 48%; padding-right: 2%;">
+    <h1>Hi there, I'm <strong>Anjana Sruthi Ranga</strong> 👋</h1>
+    <p>
+      <strong>Boston, MA</strong> | 
+      <img src="https://komarev.com/ghpvc/?username=AnjanaSruthiR&color=brightgreen" alt="Profile Views" />
+    </p>
+    <p>
+      I'm a passionate Software Engineer specializing in <strong>Frontend Development</strong> and 
+      <strong>Enterprise Identity & Access Management (IAM)</strong>. I love crafting secure, scalable 
+      applications using the MERN/MEAN stacks and integrating robust security measures 
+      (like Okta for SSO/MFA) into dynamic, user-centric experiences.
+    </p>
+  </div>
+
+  <!-- Right Column: Image -->
+  <div style="display: inline-block; vertical-align: top; width: 48%;">
+    <img src="https://github.com/user-attachments/assets/9003ffa1-e01c-4b23-b303-4c5bc5e21c23" alt="Profile Image" style="width: 100%; height: auto;" />
+  </div>
+</div>
 
 ---
 
