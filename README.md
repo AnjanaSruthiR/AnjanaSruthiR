@@ -1,24 +1,45 @@
-<p>
+<h1 align="center">
+  Hi there, I'm 
+  <a href="https://www.linkedin.com/in/anjanasruthiranga/" target="_blank">Anjana Sruthi Ranga</a>
   <img 
+    src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" 
+    alt="waving hand" 
+    height="32" 
+  />
+</h1>
+
+<br />
+
+<!-- Social badges or links (example icons) -->
+<a href="mailto:ranga.anj@northeastern.edu" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="40" />
+</a>
+<a href="https://www.linkedin.com/in/anjanasruthiranga/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="40" />
+</a>
+
+<br />
+<br />
+
+<a href="#">
+  <img 
+    align="right" 
     src="https://github.com/user-attachments/assets/9003ffa1-e01c-4b23-b303-4c5bc5e21c23" 
     alt="Developer illustration" 
-    align="right"
-    width="300"
-    style="margin-left: 20px; margin-bottom: 20px;" 
+    width="200" 
+    height="200" 
+    style="margin-left: 20px; margin-bottom: 20px;"
   />
-</p>
-  ## Hi there, I'm Anjana Sruthi Ranga 👋
-   Boston, MA   
- <img src="https://komarev.com/ghpvc/?username=AnjanaSruthiR&color=brightgreen" alt="Profile Views" />
+</a>
 
-<p style="margin-top: 20px; margin-bottom: 20px;">
-  I'm a passionate Software Engineer specializing in 
-  <strong>Frontend Development</strong> and 
-  <strong>Enterprise Identity &amp; Access Management (IAM)</strong>. I love crafting secure, 
-  scalable applications using the MERN/MEAN stacks and integrating robust security measures 
-  (like Okta for SSO/MFA) into dynamic, user-centric experiences.
+<p>
+  Hi, I'm Anjana Sruthi Ranga, a passionate Software Engineer from Boston, MA. 
+  I specialize in <strong>Frontend Development</strong> and <strong>Enterprise Identity &amp; Access 
+  Management (IAM)</strong>. I love crafting secure, scalable applications using the MERN/MEAN stacks 
+  and integrating robust security measures (like Okta for SSO/MFA) into dynamic, user-centric experiences.
 </p>
 
+<!-- Clear float before next sections to avoid overlap -->
 <div style="clear: both;"></div>
 
 ---
