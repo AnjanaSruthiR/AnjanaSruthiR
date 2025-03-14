@@ -6,7 +6,8 @@
     width="300"
     style="margin-left: 20px; margin-bottom: 20px;" 
   />
-  Hi there, I'm <strong>Anjana Sruthi Ranga</strong> 👋 <br />
+  ## Hi there, I'm <strong>Anjana Sruthi Ranga</strong> 👋
+   <br />
   <strong>Boston, MA</strong> | 
   <img src="https://komarev.com/ghpvc/?username=AnjanaSruthiR&color=brightgreen" alt="Profile Views" />
 </p>
