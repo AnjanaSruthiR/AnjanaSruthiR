@@ -23,7 +23,7 @@
 <br />
 <br />
 <p>
-  Hi, I'm Anjana Sruthi Ranga, a passionate Software Engineer from Boston, MA. 
+  Hi, I'm a passionate Software Engineer from Boston, MA. 
   I specialize in <strong>Frontend Development</strong> and <strong>Enterprise Identity &amp; Access 
   Management (IAM)</strong>. I love crafting secure, scalable applications using the MERN/MEAN stacks 
   and integrating robust security measures (like Okta for SSO/MFA) into dynamic, user-centric experiences.
