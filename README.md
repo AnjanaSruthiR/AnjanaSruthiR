@@ -4,8 +4,15 @@
 </h1>
 <img align="right" alt="GIF" src="https://github.com/user-attachments/assets/9003ffa1-e01c-4b23-b303-4c5bc5e21c23" width="250" height="200" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjanasruthiranga/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ranga.anj@northeastern.edu)
+<!-- LinkedIn Link -->
+<a href="https://www.linkedin.com/in/anjanasruthiranga/" alt="LinkedIn" target="_blank">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-linkedin.svg" height="40" />
+</a>
+
+<!-- Email Link -->
+<a href="mailto:ranga.anj@northeastern.edu" alt="Email" target="_blank">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
+</a>
 
 <p>
   Hi, I'm Anjana Sruthi Ranga, a passionate Software Engineer from Boston, MA. 
