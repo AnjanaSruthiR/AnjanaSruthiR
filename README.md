@@ -8,17 +8,6 @@
 <br />
 <br />
 
-<a href="#">
-  <img 
-    align="right" 
-    src="https://github.com/user-attachments/assets/9003ffa1-e01c-4b23-b303-4c5bc5e21c23" 
-    alt="Developer illustration" 
-    width="200" 
-    height="200" 
-    style="margin-left: 20px; margin-bottom: 20px;"
-  />
-</a>
-
 <p>
   Hi, I'm Anjana Sruthi Ranga, a passionate Software Engineer from Boston, MA. 
   I specialize in <strong>Frontend Development</strong> and <strong>Enterprise Identity &amp; Access 
@@ -26,7 +15,7 @@
   and integrating robust security measures (like Okta for SSO/MFA) into dynamic, user-centric experiences.
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/Tanmay-Pillai44/Tanmay-Pillai44/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/9003ffa1-e01c-4b23-b303-4c5bc5e21c23" width="408" height="318" />
 
 <!-- Clear float before next sections to avoid overlap -->
 <div style="clear: both;"></div>
