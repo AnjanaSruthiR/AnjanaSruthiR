@@ -1,8 +1,7 @@
-<!-- Container for the two-column layout -->
-<div style="display: flex; align-items: flex-start; flex-wrap: wrap;">
+<div style="width: 100%; display: flex; flex-wrap: wrap; align-items: flex-start;">
 
   <!-- Left Column: Text -->
-  <div style="flex: 1; min-width: 250px; margin-right: 20px;">
+  <div style="width: 60%; min-width: 300px; padding-right: 20px;">
     <h1>Hi there, I'm <strong>Anjana Sruthi Ranga</strong> 👋</h1>
     <p>
       <strong>Boston, MA</strong> | 
@@ -17,14 +16,13 @@
   </div>
 
   <!-- Right Column: Image -->
-  <div style="max-width: 300px; flex-shrink: 0;">
+  <div style="width: 35%; min-width: 250px;">
     <img 
       src="https://github.com/user-attachments/assets/9003ffa1-e01c-4b23-b303-4c5bc5e21c23" 
       alt="Developer illustration" 
       style="width: 100%; height: auto;" 
     />
   </div>
-
 </div>
 
 ---
