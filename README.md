@@ -2,12 +2,12 @@
   Hi there, I'm 
   <a href="https://www.linkedin.com/in/anjanasruthiranga/" target="_blank">Anjana Sruthi Ranga 👋</a>
 </h1>
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/9003ffa1-e01c-4b23-b303-4c5bc5e21c23" width="408" height="318" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjanasruthiranga/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ranga.anj@northeastern.edu)
 <br />
 <br />
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/9003ffa1-e01c-4b23-b303-4c5bc5e21c23" width="408" height="318" />
 <p>
   Hi, I'm Anjana Sruthi Ranga, a passionate Software Engineer from Boston, MA. 
   I specialize in <strong>Frontend Development</strong> and <strong>Enterprise Identity &amp; Access 
