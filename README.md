@@ -1,8 +1,3 @@
-  ## Hi there, I'm Anjana Sruthi Ranga 👋
-   Boston, MA   
- <img src="https://komarev.com/ghpvc/?username=AnjanaSruthiR&color=brightgreen" alt="Profile Views" />
-
-  
 <p>
   <img 
     src="https://github.com/user-attachments/assets/9003ffa1-e01c-4b23-b303-4c5bc5e21c23" 
@@ -11,8 +6,10 @@
     width="300"
     style="margin-left: 20px; margin-bottom: 20px;" 
   />
-   <br />
 </p>
+  ## Hi there, I'm Anjana Sruthi Ranga 👋
+   Boston, MA   
+ <img src="https://komarev.com/ghpvc/?username=AnjanaSruthiR&color=brightgreen" alt="Profile Views" />
 
 <p style="margin-top: 20px; margin-bottom: 20px;">
   I'm a passionate Software Engineer specializing in 
