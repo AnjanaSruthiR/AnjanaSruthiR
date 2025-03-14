@@ -2,7 +2,14 @@
   Hi there, I'm 
   <a href="https://www.linkedin.com/in/anjanasruthiranga/" target="_blank">Anjana Sruthi Ranga 👋</a>
 </h1>
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/9003ffa1-e01c-4b23-b303-4c5bc5e21c23" width="250" height="200" />
+<img 
+  align="right" 
+  alt="GIF" 
+  src="https://github.com/user-attachments/assets/9003ffa1-e01c-4b23-b303-4c5bc5e21c23" 
+  width="250" 
+  height="200" 
+  style="margin-left: 20px; margin-right: 20px;" 
+/>
 
 <!-- LinkedIn Badge -->
 <a href="https://www.linkedin.com/in/anjanasruthiranga/" target="_blank">
