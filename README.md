@@ -1,11 +1,28 @@
-<!-- Banner Image (replace the URL with your custom banner GIF/image if available) -->
-![Banner](https://images.pexels.com/photos/574073/pexels-photo-574073.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+<table>
+  <tr>
+    <!-- Left column: Text -->
+    <td>
+      
+      # Hi there, I'm **Anjana Sruthi Ranga** 👋  
+      **Boston, MA** | ![Profile Views](https://komarev.com/ghpvc/?username=AnjanaSruthiR&color=brightgreen)
+      
+      I'm a passionate Software Engineer specializing in **Frontend Development** and 
+      **Enterprise Identity & Access Management (IAM)**. I love crafting secure, scalable 
+      applications using the MERN/MEAN stacks and integrating robust security measures 
+      (like Okta for SSO/MFA) into dynamic, user-centric experiences.
+    
+    </td>
 
-# Hi there, I'm **Anjana Sruthi Ranga** 👋
-
-**Boston, MA** | ![Profile Views](https://komarev.com/ghpvc/?username=AnjanaSruthiR&color=brightgreen)
-
-I'm a passionate Software Engineer specializing in **Frontend Development** and **Enterprise Identity & Access Management (IAM)**. I love crafting secure, scalable applications using the MERN/MEAN stacks and integrating robust security measures (like Okta for SSO/MFA) into dynamic, user-centric experiences.
+    <!-- Right column: Image -->
+    <td>
+      <img 
+        src="https://github.com/user-attachments/assets/9003ffa1-e01c-4b23-b303-4c5bc5e21c23" 
+        alt="My Illustration" 
+        width="250px" 
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
