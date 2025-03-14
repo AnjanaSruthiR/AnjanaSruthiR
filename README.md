@@ -1,5 +1,7 @@
   ## Hi there, I'm Anjana Sruthi Ranga 👋
- ## Boston, MA
+   Boston, MA   
+ <img src="https://komarev.com/ghpvc/?username=AnjanaSruthiR&color=brightgreen" alt="Profile Views" />
+
   
 <p>
   <img 
@@ -10,7 +12,6 @@
     style="margin-left: 20px; margin-bottom: 20px;" 
   />
    <br />
-  <img src="https://komarev.com/ghpvc/?username=AnjanaSruthiR&color=brightgreen" alt="Profile Views" />
 </p>
 
 <p style="margin-top: 20px; margin-bottom: 20px;">
