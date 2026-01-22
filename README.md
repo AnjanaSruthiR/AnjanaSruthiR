@@ -24,9 +24,9 @@
 <br />
 <br />
 <p>
-Hi, I'm a passionate Software Engineer from Boston, MA. I specialize in <strong>Full Stack Development</strong> and <strong>Identity & Access Management</strong>. 
-  I specialize in I love crafting secure, scalable applications using the MERN/MEAN stacks 
-  and integrating robust security measures (like Okta for SSO/MFA) into dynamic, user-centric experiences.
+  Hi, I'm a passionate Software Engineer from Boston, MA. <br />
+  I specialize in <strong>Full Stack Development</strong> and <strong>Identity & Access Management</strong>. <br />
+  I love crafting secure, scalable applications using <strong>React, Spring Boot, and Node.js</strong> and integrating user-centric designs with modern tools.
 </p>
 
 ---
@@ -46,20 +46,20 @@ Hi, I'm a passionate Software Engineer from Boston, MA. I specialize in <strong>
 
 ## 🛠️ Skills & Technologies
 
-**Languages:** 
+**Languages:**  <br />
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-**Front-End:** 
+**Front-End:**  <br />
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-**Back-End:** 
+**Back-End:**  <br />
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
 
-**Databases:** 
+**Databases:**  <br />
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-**Tools & Platforms:** 
+**Tools & Platforms:**  <br />
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
